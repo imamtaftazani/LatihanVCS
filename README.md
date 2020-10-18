@@ -1,0 +1,2 @@
+# latihanVCS
+Cara Penggunaan Git
