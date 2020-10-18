@@ -128,3 +128,6 @@ $ cd latihan1``
 
 
 ### Author : Imam Taftazani Ridanif
+
+
+![animasi-bergerak-komputer-0116](https://user-images.githubusercontent.com/72736958/96375090-269a8600-11a1-11eb-9cde-74d5fa08d6e2.gif)
