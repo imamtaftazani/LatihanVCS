@@ -18,7 +18,7 @@ Nim : 312010307
 * Selamat, Git sudah terinstal di Windows. Untuk mencobanya,silahkan buka **CMD** atau **PowerShell**, kemudian ketik perintah
 ``git --version``
 
-
+![13](https://github.com/imamtaftazani/latihanVCS/issues/10#issue-724051633)
 
 ## Menambahkan Global Config
 * Pada saat pertama kali menggunakan git, perlu dilakukan konfigurasi ``user.name dan user.email``
